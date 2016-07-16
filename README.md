@@ -1,4 +1,4 @@
-• Bit Manipulation Assignment simulates theater stage with a set of computer controlled lights.
+* Bit Manipulation Assignment simulates theater stage with a set of computer controlled lights.
 
 There are 16 lights theater hand working the lights can run the program that supplies the following options:
 
